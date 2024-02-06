@@ -441,10 +441,6 @@ header .btn:hover,
     margin-top: -80px !important;
 }
 
-.bgw {
-    background-color: #fff;
-}
-
 .main_search .nav.nav-tabs {
     background             : #fff;
     -webkit-backdrop-filter: blur(22px);
