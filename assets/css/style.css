@@ -3329,7 +3329,9 @@ svg {
 
 
 
-
+ /* .selection{
+    display: none;
+}  */
 /* ======================== RESPONSIVE  ======================== */
 
 @media screen and (max-width:480px) {
